@@ -1,0 +1,6 @@
+variant,n,mission_completion_time_min_mean,mission_completion_time_min_sd,coordination_workload_mean,coordination_workload_sd,resource_utilization_rate_mean,resource_utilization_rate_sd,mission_success_rate_mean,mission_success_rate_sd,reconfiguration_latency_ms_mean,reconfiguration_latency_ms_sd,disturbance_recovery_time_min_mean,disturbance_recovery_time_min_sd
+CLGA_full,24,138.892,4.551,445.743,15.487,0.737,0.018,0.975,0.01,42.007,7.079,10.029,1.21
+no_slow_channel,24,153.321,3.65,524.087,16.675,0.705,0.018,0.951,0.009,73.833,6.565,14.689,0.93
+no_fast_channel,24,162.286,4.639,503.334,21.612,0.717,0.024,0.955,0.009,126.383,7.253,18.64,1.44
+no_feasibility_checker,24,141.786,5.941,477.659,17.276,0.727,0.019,0.939,0.01,43.229,8.833,11.311,1.024
+LLM_only_replan,24,168.733,5.173,489.844,23.031,0.699,0.022,0.949,0.01,212.746,7.287,22.851,1.452

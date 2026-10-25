@@ -1,0 +1,7 @@
+method,n,completion_time_min_mean,completion_time_min_sd,coordination_workload_mean,coordination_workload_sd,resource_utilization_mean,resource_utilization_sd,mission_success_mean,mission_success_sd,reconfiguration_latency_ms_mean,reconfiguration_latency_ms_sd,feasibility_violation_rate_pct_mean,feasibility_violation_rate_pct_sd
+RBH,360,78.88,9.343,682.028,78.177,0.724,0.018,0.887,0.013,74.47,15.767,7.617,0.536
+SLC,360,73.708,8.465,632.852,74.44,0.776,0.018,0.911,0.013,317.812,70.679,5.296,0.547
+GA,360,70.261,8.376,602.961,69.209,0.81,0.019,0.929,0.012,1471.056,83.418,3.759,0.555
+NSGAII,360,68.47,8.172,570.083,63.954,0.834,0.018,0.94,0.012,1909.066,92.757,3.004,0.579
+EGEA,360,67.018,7.887,551.988,65.372,0.843,0.018,0.946,0.012,1249.851,86.25,2.56,0.53
+CLGA,360,64.512,7.618,519.272,64.116,0.866,0.017,0.96,0.012,42.252,7.415,1.39,0.54

@@ -1,0 +1,5 @@
+{"prompt_id":"LLM01","directive":"A tanker collision has caused fire, injuries, and a possible oil spill near the fairway.","output_tasks":["T01","T02","T03","T04","T07"],"validation_status":"accepted_after_minor_dependency_fix"}
+{"prompt_id":"LLM02","directive":"The fire is controlled but two crew members remain missing and the slick is expanding.","output_tasks":["T05","T12","T14","T18","T22"],"validation_status":"accepted"}
+{"prompt_id":"LLM03","directive":"A tug is delayed and towing must be rescheduled without interrupting medical evacuation.","output_tasks":["T10","T16","T20","T23"],"validation_status":"accepted_after_resource_repair"}
+{"prompt_id":"LLM04","directive":"The skimmer vessel has failed and pollution containment must continue.","output_tasks":["T08","T14","T18","T24"],"validation_status":"sent_to_fast_channel"}
+{"prompt_id":"LLM05","directive":"Final inspection requires confirmation that fire, casualty, towing, and pollution tasks are closed.","output_tasks":["T21","T23","T24","T25","T26"],"validation_status":"accepted"}

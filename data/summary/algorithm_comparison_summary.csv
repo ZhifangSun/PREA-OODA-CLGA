@@ -1,0 +1,7 @@
+method,n,mission_completion_time_min_mean,mission_completion_time_min_sd,coordination_workload_mean,coordination_workload_sd,resource_utilization_rate_mean,resource_utilization_rate_sd,mission_success_rate_mean,mission_success_rate_sd,reconfiguration_latency_ms_mean,reconfiguration_latency_ms_sd,constraint_violation_count_mean,constraint_violation_count_sd,disturbance_recovery_time_min_mean,disturbance_recovery_time_min_sd
+RuleBased,30,181.982,5.081,638.838,25.448,0.638,0.022,0.914,0.015,190.17,27.703,2.6,0.675,22.357,1.681
+GA,30,164.943,3.958,575.913,23.318,0.681,0.025,0.936,0.014,145.091,28.807,1.6,0.675,18.964,1.744
+NSGAII,30,157.642,6.366,547.951,21.096,0.702,0.028,0.949,0.017,136.565,22.54,1.233,0.817,18.157,2.39
+EGEA,30,151.599,5.838,520.969,20.162,0.717,0.025,0.956,0.014,117.192,24.747,0.867,0.776,15.988,1.765
+SingleLayer,30,170.45,6.225,597.89,23.002,0.669,0.025,0.93,0.011,175.315,25.382,2.067,0.74,20.706,1.921
+CLGA,30,141.264,4.546,455.719,20.845,0.735,0.019,0.98,0.016,47.848,8.798,0.433,0.626,11.51,2.153

@@ -1,0 +1,6 @@
+threshold,n,transfer_maneuver_time_min_mean,transfer_maneuver_time_min_sd,grouping_efficiency_mean,grouping_efficiency_sd,mission_completion_accuracy_mean,mission_completion_accuracy_sd,resource_utilization_rate_mean,resource_utilization_rate_sd,coordination_workload_mean,coordination_workload_sd,reconfiguration_latency_ms_mean,reconfiguration_latency_ms_sd
+0.1,25,5.396,0.238,0.913,0.016,0.965,0.008,0.7,0.018,469.815,17.523,34.929,4.116
+0.2,25,4.844,0.266,0.958,0.016,0.995,0.006,0.729,0.021,443.483,12.097,41.887,4.461
+0.3,25,5.277,0.184,0.929,0.02,0.99,0.007,0.724,0.015,467.764,13.474,57.463,4.943
+0.4,25,6.261,0.18,0.861,0.017,0.979,0.009,0.698,0.02,505.384,9.824,83.32,4.241
+0.5,25,7.504,0.285,0.783,0.021,0.964,0.007,0.676,0.018,542.244,12.533,119.744,3.603
